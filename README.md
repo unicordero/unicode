@@ -5,3 +5,4 @@ Plataforma virtual donde los estudiantes de la universidad de córdoba podrán a
 INTEGRANTES:
 ANGEL MANUEL CORDERO FALCO
 ELIAN DAVID BETANCOURT NEGRETE 
+JOSE ALBERTO TIRADO PEINADO
